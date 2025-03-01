@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Md Shahin Ali
-### Doctor of Philosophy | Graduate Research Assistant at University of Iowa
+### Graduate Research Assistant at University of Iowa
 ![Doctor of Philosophy | Graduate Research Assistant at University of Iowa](https://media.licdn.com/dms/image/v2/D5616AQEAjBtc3pikuw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1699291510981?e=2147483647&v=beta&t=MuLRkDb5SMrb73snxElHmsSn5QVaM_I8yA4rRnMLQTs)
 
 Md Shahin Ali is currently pursuing a PhD in the Department of Biomedical Engineering at the University of Iowa, USA. He holds a B.Sc. in Engineering from the Department of Biomedical Engineering at Islamic University, Bangladesh. Since August 2024, he has been serving as a Research Assistant in the Laboratory of Quantitative and Dynamic MRI. His diverse research interests include Medical Image Processing, Medical Image Reconstruction, Inverse Problems, Machine Learning, and Deep Learning.
