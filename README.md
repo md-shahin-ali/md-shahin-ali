@@ -6,8 +6,8 @@ Md Shahin Ali is currently pursuing a PhD in the Department of Biomedical Engine
 
 Skills: Deep Learning | Medical Image Processing | Canva | Latex writing
 
-- 🔭 I’m currently working on this page. 
-- 📫 How to reach me: mdshahin-ali@uiowa.edu 
+
+- 📫 Contact me at: mdshahin-ali@uiowa.edu 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahinbme)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-shahin-ali//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/md-shahin-ali/home)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](https://scholar.google.com/citations?user=R35Lm8YAAAAJ&hl=en)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Md-Ali-177)  
@@ -18,3 +18,4 @@ Skills: Deep Learning | Medical Image Processing | Canva | Latex writing
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=shahinbme)  
 
+]
