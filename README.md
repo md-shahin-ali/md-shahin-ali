@@ -8,7 +8,7 @@ I'm currently pursuing a PhD in the Department of Biomedical Engineering at the 
 
 Skills: Deep Learning | Medical Image Processing | Canva | Latex writing
 
-- 📫 How to reach me: mdshahin-ali@uiowa.edu 
+- 📫 Contact me at: mdshahin-ali@uiowa.edu 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-shahin-ali) &nbsp;&nbsp;&nbsp;&nbsp;
