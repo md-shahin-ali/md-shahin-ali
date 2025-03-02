@@ -8,7 +8,7 @@ I'm currently pursuing a PhD in the Department of Biomedical Engineering at the 
 
 <br>
 
-Skills: Deep Learning | Medical Image Processing | Canva | Latex writing
+**Skills**: Deep Learning | Medical Image Processing | Canva | Latex writing
 
 <br>
 
