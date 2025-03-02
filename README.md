@@ -6,7 +6,7 @@
 I'm currently pursuing a PhD in the Department of Biomedical Engineering at the University of Iowa, USA. I completed my B.Sc. from the Department of Biomedical Engineering at Islamic University, Bangladesh. Since August 2024, I have been serving as a Research Assistant in the Laboratory of Quantitative and Dynamic MRI. My diverse research interests include Medical Image Processing, Medical Image Reconstruction, Inverse Problems, Machine Learning, and Deep Learning.
 </p>
 
-<br><br>
+<br>
 
 Skills: Deep Learning | Medical Image Processing | Canva | Latex writing
 
@@ -14,7 +14,7 @@ Skills: Deep Learning | Medical Image Processing | Canva | Latex writing
 
 - 📫 Contact me at: mdshahin-ali@uiowa.edu 
 
-<br><br>
+<br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-shahin-ali) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-shahin-ali/) &nbsp;&nbsp;&nbsp;&nbsp;
